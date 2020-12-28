@@ -4,4 +4,6 @@
 
 [![Jess2's github stats](https://github-readme-stats.vercel.app/api?username=JESS2&theme=react&show_icons=true)](https://github.com/JESS2/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsoyeonjung/)](https://www.linkedin.com/in/devsoyeonjung/) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jess2.xyz)](https://jess2.xyz) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jess2.developer@gmail.com)](mailto:jess2.developer@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jess2.xyz)](https://jess2.xyz) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsoyeonjung/)](https://www.linkedin.com/in/devsoyeonjung/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jess2.developer@gmail.com)](mailto:jess2.developer@gmail.com)
