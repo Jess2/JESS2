@@ -4,6 +4,8 @@
 
 [![Jess2's github stats](https://github-readme-stats.vercel.app/api?username=JESS2&theme=react&show_icons=true)](https://github.com/JESS2/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JESS2)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jess2.xyz)](https://jess2.xyz)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jess2.developer@gmail.com)](mailto:jess2.developer@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsoyeonjung/)](https://www.linkedin.com/in/devsoyeonjung/)
