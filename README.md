@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### 안녕하세요! 👋
+### Hi there! I'm Jess2 👋
 
 [![Jess2's github stats](https://github-readme-stats.vercel.app/api?username=JESS2&theme=vue&show_icons=true)](https://github.com/JESS2/github-readme-stats)
 
