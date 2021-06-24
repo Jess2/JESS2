@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffd500&height=150&section=header&text=Frontend%20Developer,%20Jess2&fontSize=30&animation=twinkling&fontColor=ffffff&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=150&section=header&text=Frontend%20Developer,%20Jess2&fontSize=30&animation=twinkling&fontColor=ffffff&fontAlignY=30)
   
 [![Jess2's github stats](https://github-readme-stats.vercel.app/api?username=JESS2&theme=gruvbox&show_icons=true)](https://github.com/JESS2/github-readme-stats)
   
