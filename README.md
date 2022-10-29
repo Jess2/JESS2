@@ -1,4 +1,4 @@
-👋  Hi there! I'm **Frontend Developer**, Jess2
+👋  Hi there! I'm **Web Frontend Developer**, Jess2
 
 [![Jess2's github stats](https://github-readme-stats.vercel.app/api?username=JESS2&theme=gruvbox&show_icons=true)](https://github.com/JESS2/github-readme-stats)
     
